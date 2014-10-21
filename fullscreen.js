@@ -141,7 +141,7 @@
 		"	margin: 0 !important;\n" +
 		"	left: 0 !important;\n" +
 		"	top: 0 ! important;\n" +
-		"	z-index: 1000 ! important;\n" +
+		"	z-index: 2147483647 ! important;\n" +
 		"}\n";
 
 	styles.type = "text/css";
